@@ -1,7 +1,6 @@
 			Dogs are better than cats
 
 				dogs are loving
-				dogs are made of magic and god juice
 				dogs scare burglars
 
 			Cats are better than dogs
@@ -10,4 +9,3 @@
 
 				cats are cuddly 
 				cats have 9 lives
-				cats like to swim
