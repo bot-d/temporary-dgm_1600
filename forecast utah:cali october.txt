@@ -1,11 +1,11 @@
 				October
 Utah
 	week1: 75 75 76 77 74 74 73
-	week2:
-	week3:
+	week2: 73 72 72 69 67 67 69
+	week3: 66 63 59 57 57 55 46
 
 California
 
 	week1: 85 84 84 85 84 84 84
-	week2:
-	week3:
+	week2: 84 84 83 85 85 84 83
+	week3: 82 80 75 73 70 70 75
