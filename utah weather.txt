@@ -1,2 +1,6 @@
 utah weather
-	75
+	48
+	46
+california weather
+	65
+	53
